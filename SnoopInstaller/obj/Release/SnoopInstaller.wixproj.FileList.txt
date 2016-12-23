@@ -1,0 +1,6 @@
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\SnoopInstaller\bin\Release\Snoop.msi
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\SnoopInstaller\bin\Release\Snoop.wixpdb
+obj\Release\Product.wixobj
+obj\Release\SnoopInstaller.wixproj.BindContentsFileListnull.txt
+obj\Release\SnoopInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Release\SnoopInstaller.wixproj.BindBuiltOutputsFileListnull.txt

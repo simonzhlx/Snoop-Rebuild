@@ -1,0 +1,11 @@
+..\Build\Release\ManagedInjector32-3.5.dll
+..\Build\Release\ManagedInjector32-4.0.dll
+..\Build\Release\ManagedInjector64-3.5.dll
+..\Build\Release\ManagedInjector64-4.0.dll
+..\Build\Release\ManagedInjectorLauncher32-3.5.exe
+..\Build\Release\ManagedInjectorLauncher32-4.0.exe
+..\Build\Release\ManagedInjectorLauncher64-3.5.exe
+..\Build\Release\ManagedInjectorLauncher64-4.0.exe
+..\Build\Release\Snoop.exe.config
+..\Build\Release\Snoop.exe
+..\Build\Release\Scripts\Snoop.psm1

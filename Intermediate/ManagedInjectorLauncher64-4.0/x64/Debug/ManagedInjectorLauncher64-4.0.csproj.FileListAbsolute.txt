@@ -1,0 +1,6 @@
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Intermediate\ManagedInjectorLauncher64-4.0\x64\Debug\ManagedInjectorLauncher64-4.0.csprojResolveAssemblyReference.cache
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Build\Debug\ManagedInjectorLauncher64-4.0.exe.config
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Build\Debug\ManagedInjectorLauncher64-4.0.exe
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Build\Debug\ManagedInjectorLauncher64-4.0.pdb
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Intermediate\ManagedInjectorLauncher64-4.0\x64\Debug\ManagedInjectorLauncher64-4.0.exe
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Intermediate\ManagedInjectorLauncher64-4.0\x64\Debug\ManagedInjectorLauncher64-4.0.pdb

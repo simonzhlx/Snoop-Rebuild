@@ -1,0 +1,6 @@
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Build\Release\ManagedInjectorLauncher32-4.0.exe.config
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Build\Release\ManagedInjectorLauncher32-4.0.exe
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Build\Release\ManagedInjectorLauncher32-4.0.pdb
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Intermediate\ManagedInjectorLauncher32-4.0\x86\Release\ManagedInjectorLauncher32-4.0.csprojResolveAssemblyReference.cache
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Intermediate\ManagedInjectorLauncher32-4.0\x86\Release\ManagedInjectorLauncher32-4.0.exe
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\Intermediate\ManagedInjectorLauncher32-4.0\x86\Release\ManagedInjectorLauncher32-4.0.pdb

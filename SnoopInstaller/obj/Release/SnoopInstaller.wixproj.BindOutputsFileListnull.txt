@@ -1,0 +1,2 @@
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\SnoopInstaller\bin\Release\Snoop.msi
+C:\Users\simonzhao\Downloads\snoopwpf-master\snoopwpf-master\SnoopInstaller\bin\Release\Snoop.wixpdb
